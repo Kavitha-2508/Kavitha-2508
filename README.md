@@ -34,6 +34,7 @@ Published Power BI Dashboard Project and Tableau Sales Analytics Dashboard (link
 Completed certifications in Data Analytics and Data Visualization
 
 📫 How to reach me
+
 LinkedIn: linkedin.com/in/kavitha-2508
 
 Email: kavithanatesan1080@gmail.com
